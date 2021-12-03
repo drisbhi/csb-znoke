@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://drisbhi.github.io/csb-znoke/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://drisbhi.github.io/csb-znoke/static/js/main.54f99a7e.chunk.js",
+    "main.js.map": "https://drisbhi.github.io/csb-znoke/static/js/main.54f99a7e.chunk.js.map",
+    "runtime-main.js": "https://drisbhi.github.io/csb-znoke/static/js/runtime-main.ec6b9557.js",
+    "runtime-main.js.map": "https://drisbhi.github.io/csb-znoke/static/js/runtime-main.ec6b9557.js.map",
+    "static/css/2.e7e54d67.chunk.css": "https://drisbhi.github.io/csb-znoke/static/css/2.e7e54d67.chunk.css",
+    "static/js/2.1bf61f4a.chunk.js": "https://drisbhi.github.io/csb-znoke/static/js/2.1bf61f4a.chunk.js",
+    "static/js/2.1bf61f4a.chunk.js.map": "https://drisbhi.github.io/csb-znoke/static/js/2.1bf61f4a.chunk.js.map",
+    "index.html": "https://drisbhi.github.io/csb-znoke/index.html",
+    "static/css/2.e7e54d67.chunk.css.map": "https://drisbhi.github.io/csb-znoke/static/css/2.e7e54d67.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://drisbhi.github.io/csb-znoke/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.1bf61f4a.chunk.js.LICENSE.txt": "https://drisbhi.github.io/csb-znoke/static/js/2.1bf61f4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6b9557.js",
+    "static/css/2.e7e54d67.chunk.css",
+    "static/js/2.1bf61f4a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.54f99a7e.chunk.js"
+  ]
+}
